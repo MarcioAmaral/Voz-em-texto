@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Voz em texto</string>
+
+    <string name="speech_err">Erro ao abrir a internet com google Assistente</string>
+</resources>
